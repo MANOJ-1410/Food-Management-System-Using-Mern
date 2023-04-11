@@ -1,4 +1,4 @@
-# pizza-shop-mern-stack-app 
+# Food Management System Using Mern And Redux
 #complete Project Code 
 #watch Videos on 
 https://www.youtube.com/techinfoyt
