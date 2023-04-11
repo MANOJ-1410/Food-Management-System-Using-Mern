@@ -1,7 +1,5 @@
 # Food Management System Using Mern And Redux
-#complete Project Code 
-#watch Videos on 
-https://www.youtube.com/techinfoyt
+
 
 -watch complete videos to build and deloye 
 -also if you want to learn somthing 
